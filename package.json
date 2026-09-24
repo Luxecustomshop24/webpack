@@ -106,7 +106,7 @@
     "terser": "^5.38.1",
     "three": "^0.177.0",
     "tinybench": "^4.0.1",
-    "toml": "^3.0.0",
+    "toml": "^4.2.0",
     "tooling": "webpack/tooling#v1.23.9",
     "ts-loader": "^9.5.1",
     "typescript": "^5.8.2",
